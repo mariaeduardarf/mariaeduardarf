@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7319F&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=ol%C3%A1%2C+me+chamo+Maria+Eduarda+e+sou+desenvolvedora+de+font-end)](https://git.io/typing-svg)
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
